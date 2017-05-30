@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title>Bags of Taste: score recipes against selected ingredients</title>
+    <script src="testFunctions.js"></script>
+    <link rel="stylesheet" href="http://www.w3schools.com/lib/w3.css">
+    
+    <!-- The three lines needed to make responsive START next. -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- The three lines needed to make responsive END above. -->
+    
+    <!-- --
+    <style>
+        button {
+            background-color: silver;
+            font-family: "Times New Roman";
+            font-size: 20px;
+            text-align: center;
+        }            
+        body {
+            background-color: silver;
+            font-family: "Times New Roman";
+            font-size: 20px;
+            text-align: center;
+        }            
+    </style>
+    <!-- -->
+
+    <script type="text/javascript" src="scoreRecipes_againstSelectedIngredients.js"></script>
+    <script src="/js/pdfobject.js"></script>
+</head>
+
+<body id="documentBody" 
+      style="background-color:lightgray" 
+      onload="onloadFunction()">
+        <a href="https://rippon.tinytake.com/sf/MTI3MjcxNV80Nzc0NDcx" target="_blank">
+            <h3 align="center"><font color="blue">click here for a demo</font></h3>
+        </a>
+    <div class="container-fluid">
+        
+
+<h5 align="center">(This app does not work well on mobiles/tablets. Works best under Firefox on computers.)</h5>
+<h2 align="center">score recipes against selected ingredients</h2>
+<table align="center">
+    <tr>
+        <td>
+            <button id="showIngredientButtons" onclick="showIngredientButtons()" 
+                    type="button" class="btn btn-primary btn-lg">
+                click here to select ingredients
+            </button>
+            <button id="clearSelectedIngredients" onclick="resetIngredientsSelection()"
+                    type="button" class="btn btn-primary btn-lg">
+                reset ingredients selection
+            </button>
+            <br>
+            (ingredients appear in alphabetical order)
+        </td>
+        <td>
+            <button id="scoreSelectedIngredientsButton" onclick="scoreSelectedIngredients(getSelectedIngredients())"
+                    type="button" class="btn btn-primary btn-lg">
+                score selected ingredients
+            </button>
+        </td>
+    </tr>
+    <tr>
+        <td id="tablePosition">the ingredients table will appear here</td>
+        <td id="recipeMatching">recipe matching results appear here</td>
+    </tr>
+</table>
+<br>
+<!-- --
+Choose a recipe (you will need to scroll down for full instructions):
+<select id="recipeSelect" onclick="chooseAndDisplayRecipe()"></select>
+<!-- -->
+<div id="displayRecipeIngredientsArea" style="text-align:center"></div>
+<br>
+<div id="aNavigationPoint"></div>
+
+<object id='myPdfObject' type='application/pdf' align="middle">
+ <embed id='myPdfEmbed' type='application/pdf' align="middle">
+</object>
+
+    </div>
+</body>
+
+</html>

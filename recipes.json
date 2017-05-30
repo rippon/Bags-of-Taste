@@ -1,0 +1,830 @@
+[
+    {
+    "recipeName": "Beef & Broccoli in Oyster Sauce",
+    "serves": 2,
+    "caloriesPerServing": "613 (including rice)",
+    "ingredients": [
+                    {"ingredient": "minced beef", "quantity": "200g"},
+                    {"ingredient": "onion", "quantity": "1 medium (150g)"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "minced ginger", "quantity": "2 tsp"},
+                    {"ingredient": "broccoli", "quantity": "150g"},
+                    {"ingredient": "oyster sauce", "quantity": "2 tbsps"},
+                    {"ingredient": "water", "quantity": "200 ml"},
+                    {"ingredient": "cornflour", "quantity": "3 tsps"},
+                    {"ingredient": "toasted sesame oil", "quantity": "1 tsp"},
+                    {"ingredient": "white pepper", "quantity": "large pinch"}
+                   ],
+    "instructions": "this is the first recipe method",
+    "notes": "notes for first recipe"
+    },
+    {
+    "recipeName": "Beef and Mushrooms in Oyster Sauce",
+    "ingredients": [
+                    {"ingredient": "minced beef", "quantity": "200g"},
+                    {"ingredient": "onion", "quantity": "1 medium (150g)"},
+                    {"ingredient": "garlic", "quantity": "3 large cloves"},
+                    {"ingredient": "minced ginger", "quantity": "1 tbsp"},
+                    {"ingredient": "mushrooms", "quantity": "200g"},
+                    {"ingredient": "beef stock cube", "quantity": "1/2"},
+                    {"ingredient": "oyster sauce", "quantity": "4 tsps (20 ml)"},
+                    {"ingredient": "water", "quantity": "250 ml"},
+                    {"ingredient": "toasted sesame oil", "quantity": "1 1/2 tsps"},
+                    {"ingredient": "cornflour", "quantity": "2 tsps"},
+                    {"ingredient": "white (or black) pepper", "quantity": "1/8 tsp"}
+                   ],
+    "notes": "notes for second recipe",
+    "instructions": "this is the second recipe method"
+    },
+    {
+    "recipeName": "Beef Stew with butter beans",
+    "ingredients": [
+                    {"ingredient": "shin beef or other stewing beef", "quantity": "350 g"},
+                    {"ingredient": "dried butter beans, soaked", "quantity": "60g"},
+                    {"ingredient": "sweet pepper, any colour you prefer", "quantity": "1/2"},
+                    {"ingredient": "onion", "quantity": "1 large"},
+                    {"ingredient": "oregano", "quantity": "1/4 tsp"},
+                    {"ingredient": "thyme", "quantity": "1/4 tsp"},
+                    {"ingredient": "beef stock cube", "quantity": "1"},
+                    {"ingredient": "Lea and Perrins or HP Sauce (optional)", "quantity": "1 tsp"},
+                    {"ingredient": "vegetable oil", "quantity": "2 tbsps "}
+                   ],
+    "notes": "no notes yet"
+    },
+    {
+    "recipeName": "Borscht",
+    "ingredients": [
+                    {"ingredient": "salt"},
+                    {"ingredient": "pepper"},
+                    {"ingredient": "onion", "quantity": "100g"},
+                    {"ingredient": "raw beetroot", "quantity": "200g"},
+                    {"ingredient": "cabbage", "quantity": "100g"},
+                    {"ingredient": "carrot", "quantity": "100g"},
+                    {"ingredient": "potato", "quantity": "150-200g medium sized"},
+                    {"ingredient": "celery", "quantity": "1/2 stick (about 30g)"},
+                    {"ingredient": "black pepper", "quantity": "1/8 tsp"},
+                    {"ingredient": "chopped tomatoes", "quantity": "1/2 tin"},
+                    {"ingredient": "garlic", "quantity": "1 clove, crushed"},
+                    {"ingredient": "water", "quantity": "375ml"},
+                    {"ingredient": "vegetable stock cube", "quantity": "1 - 2"},
+                    {"ingredient": "fresh dill", "quantity": "1 tsp"},
+                    {"ingredient": "coriander leaf", "quantity": "2 tsp"},
+                    {"ingredient": "sour cream", "quantity": "4 tbsps (optional)"}
+                   ],
+    "notes": "no notes yet"
+    },
+    {
+    "recipeName": "Broccoli Pasta",
+    "ingredients": [
+                    {"ingredient": "extra virgin olive oil", "quantity": "3 tbsps"},
+                    {"ingredient": "broccoli", "quantity": "250-300g"},
+                    {"ingredient": "pasta", "quantity": "250g"},
+                    {"ingredient": "garlic", "quantity": "3 large cloves"}
+                   ]
+    },
+    {
+    "recipeName": "Caesar Salad (Chicken or Egg)",
+    "ingredients": [
+                    {"ingredient": "mayo", "quantity": "3 tbsp"},
+                    {"ingredient": "rawbeetroot", "quantity": "200g"},
+                    {"ingredient": "water", "quantity": "1 tbsp"},
+                    {"ingredient": "fish sauce", "quantity": "1/4 tsp"},
+                    {"ingredient": "grated hard parmesan-like cheese", "quantity": "4 tbsp"},
+                    {"ingredient": "garlic", "quantity": "1 small clove"},
+                    {"ingredient": "lemon juice (can be from a bottle)", "quantity": "2 tsps"},
+                    {"ingredient": "lea and perrins or other Worcestershire sauce", "quantity": "1/4 tsp"},
+                    {"ingredient": "1 small iceberg/cos lettuce or 2 little gem lettuces", "quantity": "around 250g"},
+                    {"ingredient": "tomatoes", "quantity": "2 medium"},
+                    {"ingredient": "Cucumber", "quantity": "3 inches/100g"},
+                    {"ingredient": "Chicken breast (raw) or any ready cooked chicken", "quantity": "250g"}
+                   ],
+    "notes": "no notes yet"
+    },
+    {
+    "recipeName": "Cauliflower and Potato Curry",
+    "ingredients": [
+                    {"ingredient": "oil", "quantity": "1 tbsp"},
+                    {"ingredient": "1 small cauliflower", "quantity": "about 350g"},
+                    {"ingredient": "potatoes", "quantity": "250g (approx 2 small), cooked whole and peeled (can be leftovers)"},
+                    {"ingredient": "cumin seeds whole", "quantity": "1 tsp"},
+                    {"ingredient": "water", "quantity": "60ml / 1/4 cup"},
+                    {"ingredient": "ground cumin", "quantity": "1 tsp"},
+                    {"ingredient": "ground coriander", "quantity": "3/4 tsp"},
+                    {"ingredient": "turmeric", "quantity": "1/4 tsp"},
+                    {"ingredient": "chilli powder", "quantity": "1/4 tsp"},
+                    {"ingredient": "salt", "quantity": "1/4 - 1/2 tsp"},
+                    {"ingredient": "ground black pepper"}
+                   ],
+    "notes": "no notes yet"
+    },
+    {
+    "recipeName": "Channa Masala (Chickpea Curry)",
+    "ingredients": [
+                    {"ingredient": "Chickpeas", "quantity": "1 400g tin"},
+                    {"ingredient": "onion", "quantity": "3 medium onions (about 400g), or 2 large onions"},
+                    {"ingredient": "chopped tomatoes", "quantity": "1 400g tin"},
+                    {"ingredient": "Chilli powder", "quantity": "1/4 - 1/2 tsp (add to taste)"},
+                    {"ingredient": "Garam masala", "quantity": "2 tsp"},
+                    {"ingredient": "ground fennel seeds (or just bash some whole ones with a rolling pin)", "quantity": "1/2 tsp"},
+                    {"ingredient": "Tomato Ketchup", "quantity": "1 tbsp"},
+                    {"ingredient": "coriander leaf", "quantity": "1 small handful (about 30g)"},
+                    {"ingredient": "veg oil", "quantity": "3 tbsps"}
+                   ]
+    },
+    {
+    "recipeName": "Chicken or Vegetable Fajitas",
+    "ingredients": [
+                    {"ingredient": "pepper", "quantity": "1"},
+                    {"ingredient": "onion", "quantity": "1 medium onion (150g)"},
+                    {"ingredient": "veg oil", "quantity": "1 tbsp"},
+                    {"ingredient": "pitta breads or tortilla wraps", "quantity": "2-4 large"},
+                    {"ingredient": "chicken stock cube, crushed", "quantity": "1/2"},
+                    {"ingredient": "cornstarch/cornflour (preferably) or normal flour", "quantity": "1/2 tbsp"},
+                    {"ingredient": "paprika", "quantity": "1/2 tsp"},
+                    {"ingredient": "ground cumin", "quantity": "1/4 tsp"},
+                    {"ingredient": "250g chicken breast – for a vegetarian version you can substitute 200g mushrooms and 120g canned beans like kidney beans (half a tin)"},
+                    {"ingredient": "tomato puree", "quantity": "1 tsp"},
+                    {"ingredient": "garlic", "quantity": "1 large clove, crushed"},
+                    {"ingredient": "salt (optional)", "quantity": "1/4 tsp"},
+                    {"ingredient": "sugar (optional)", "quantity": "1/2 tsp"},
+                    {"ingredient": "chilli (optional)", "quantity": "1/4 tsp"}
+                   ]
+    },
+    {
+    "recipeName": "Chicken A La King",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "1 tbsp"},
+                    {"ingredient": "onion", "quantity": "1 small-med (100-150g)"},
+                    {"ingredient": "mushrooms, button is best", "quantity": "150g"},
+                    {"ingredient": "green pepper (or any colour)", "quantity": "1/2"},
+                    {"ingredient": "chicken breast", "quantity": "250g"},
+                    {"ingredient": "milk", "quantity": "200ml (bit less than a mug)"},
+                    {"ingredient": "flour", "quantity": "4 tsps"},
+                    {"ingredient": "chicken stock cube", "quantity": "1/2"}
+                   ]
+    },
+    {
+    "recipeName": "Chicken Pilaff with veg",
+    "ingredients": [
+                    {"ingredient": "long grain rice", "quantity": "150g (2/3 of a cup)"},
+                    {"ingredient": "water", "quantity": "250ml/250g (1 cup)"},
+                    {"ingredient": "veg oil", "quantity": "1 Tbs (15ml)"},
+                    {"ingredient": "onion", "quantity": "1 medium, thinly sliced"},
+                    {"ingredient": "stock cube (veg or chicken is best)", "quantity": "1"},
+                    {"ingredient": "chicken", "quantity": "500g or about 4 chicken pieces"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "ginger", "quantity": "1 1/2 tsp finely grated or chopped"},
+                    {"ingredient": "lemon juice (can be bottled)", "quantity": "1 Tbs"},
+                    {"ingredient": "frozen mixed veg", "quantity": "200g"},
+                    {"ingredient": "dried oregano – or try cumin", "quantity": "1/2 tsp"}
+                   ]
+    },
+    {
+    "recipeName": "Chicken Pilaff",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "1 tbsp (15ml)"},
+                    {"ingredient": "long grain rice", "quantity": "150g (2/3 of a cup)"},
+                    {"ingredient": "water", "quantity": "250ml/250g (1 cup)"},
+                    {"ingredient": "onion", "quantity": "1 medium, thinly sliced"},
+                    {"ingredient": "stock cube (veg or chicken is best)", "quantity": "1"},
+                    {"ingredient": "chicken", "quantity": "500g or about 4 chicken pieces"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "ginger", "quantity": "1 tsp finely grated or chopped"},
+                    {"ingredient": "lemon juice (can be bottled)", "quantity": "1 Tbs"},
+                    {"ingredient": "dried oregano", "quantity": "1/2 tsp"},
+                    {"ingredient": "chicken", "quantity": "500g or about 4 chicken pieces"}
+                   ]
+    },
+    {
+    "recipeName": "Christmas Lamb Plov",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "1 tbsp (15ml)"},
+                    {"ingredient": "long grain rice", "quantity": "150g (2/3 of a cup)"},
+                    {"ingredient": "lamb cubes", "quantity": "200-250g"},
+                    {"ingredient": "onion", "quantity": "1 large, thinly sliced"},
+                    {"ingredient": "water", "quantity": "250ml/250g (1 cup)"},
+                    {"ingredient": "beef or lamb stock cube", "quantity": "1"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "cinnamon (optional)", "quantity": "1 tsp ground"},
+                    {"ingredient": "cumin", "quantity": "1 tsp ground"},
+                    {"ingredient": "carrots", "quantity": "200g"},
+                    {"ingredient": "mixed dried fruit", "quantity": "60g"},
+                    {"ingredient": "salt", "quantity": "1/4 tsp"},
+                    {"ingredient": "pepper", "quantity": "1/4 tsp"}
+                   ]
+    },
+    {
+    "recipeName": "Christmas Stuffed Mushrooms",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "1 tbsp (15ml)"},
+                    {"ingredient": "large open mushrooms", "quantity": "4"},
+                    {"ingredient": "onion", "quantity": "1 large, thinly sliced"},
+                    {"ingredient": "pepper", "quantity": "1/2 small, any colour"},
+                    {"ingredient": "beef or lamb stock cube", "quantity": "1"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "cinnamon (optional)", "quantity": "1 tsp ground"},
+                    {"ingredient": "cumin", "quantity": "1 tsp ground"},
+                    {"ingredient": "mixed dried fruit", "quantity": "60g"},
+                    {"ingredient": "breadcrumbs", "quantity": "3 tbsps dry or 4 tbsps fresh"},
+                    {"ingredient": "salt", "quantity": "1/4 tsp"},
+                    {"ingredient": "pepper", "quantity": "1/4 tsp"},
+                    {"ingredient": "blue cheese", "quantity": "80g (any basics brand)"}
+                   ]
+    },
+    {
+    "recipeName": "Cottage Pie Veggie",
+    "ingredients": [
+                    {"ingredient": "Quorn mince", "quantity": "150g"},
+                    {"ingredient": "onion", "quantity": "1 large, thinly sliced"},
+                    {"ingredient": "carrots", "quantity": "150g, peeled and diced"},
+                    {"ingredient": "celery", "quantity": "1 small stick (60g)"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "tomato puree", "quantity": "1 tbsp"},
+                    {"ingredient": "mixed herbs or any dried herb you like (optional)", "quantity": "1/4 tsp"},
+                    {"ingredient": "bay leaf (optional)", "quantity": "1"},
+                    {"ingredient": "water", "quantity": "375ml"},
+                    {"ingredient": "flour", "quantity": "1 tbsp"},
+                    {"ingredient": "lemon juice", "quantity": "1 tsp"},
+                    {"ingredient": "soya sauce (or you can just use a whole veg stock cube)", "quantity": "1 tbsp"},
+                    {"ingredient": "veg stock cube", "quantity": "1/2"},
+                    {"ingredient": "black pepper", "quantity": "1/8 tsp"},
+                    {"ingredient": "potatoes", "quantity": "600g"},
+                    {"ingredient": "Splash of milk for the mash"},
+                    {"ingredient": "butter", "quantity": "15 g butter (large knob)"}
+                   ]
+    },
+    {
+    "recipeName": "Cottage Pie",
+    "ingredients": [
+                    {"ingredient": "minced beef or lamb", "quantity": "200g"},
+                    {"ingredient": "onion", "quantity": "1 large or 2 small – around 150-200g"},
+                    {"ingredient": "water", "quantity": "250ml (1 small mug)"},
+                    {"ingredient": "beef stock cube", "quantity": 1},
+                    {"ingredient": "black pepper", "quantity": "1/8 tsp"},
+                    {"ingredient": "carrots", "quantity": "150g, peeled and diced"},
+                    {"ingredient": "potatoes", "quantity": "600g"},
+                    {"ingredient": "Splash of milk for the mash"},
+                    {"ingredient": "butter", "quantity": "15 g butter (large knob)"}
+                   ]
+    },
+    {
+    "recipeName": "Courgette Koftas",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "2 tbsp"},
+                    {"ingredient": "courgette", "quantity": "1 med-large (200-250g)"},
+                    {"ingredient": "chickpea (gram) flour (also known as besan)", "quantity": "3 tbsp"},
+                    {"ingredient": "Garam masala", "quantity": "1/2 tsp"},
+                    {"ingredient": "ground coriander", "quantity": "1/2 tsp"},
+                    {"ingredient": "sugar (optional)", "quantity": "1/2 tsp"},
+                    {"ingredient": "salt (if cooking without salt, add 4 tsps water instead)", "quantity": "1/4 tsp"},
+                    {"ingredient": "Pepper"}
+                   ]
+    },
+    {
+    "recipeName": "Dal",
+    "ingredients": [
+                    {"ingredient": "rice", "quantity": "130g"},
+                    {"ingredient": "dried split red lentils", "quantity": "125g"},
+                    {"ingredient": "garlic", "quantity": "1 large clove"},
+                    {"ingredient": "chilli powder/flakes (optional)", "quantity": "1/2 tsp, depending how spicy you want it"},
+                    {"ingredient": "cumin seed", "quantity": "1 tsp"},
+                    {"ingredient": "mustard seed", "quantity": "1 tsp"},
+                    {"ingredient": "salt", "quantity": "1/8 tsp"},
+                    {"ingredient": "veg oil", "quantity": "1 tbsps"},
+                    {"ingredient": "veg or any stock cube", "quantity": "1/2"},
+                    {"ingredient": "turmeric", "quantity": "1/2 tsp"},
+                    {"ingredient": "chopped coriander leaf (optional)", "quantity": "2 tbsps"}
+                   ]
+    },
+    {
+    "recipeName": "Fish Curry",
+    "ingredients": [
+                    {"ingredient": "veg oil", "quantity": "1 tbsps"},
+                    {"ingredient": "frozen fish fillets (any white fish fillets are fine)", "quantity": "300g"},
+                    {"ingredient": "chopped tomatoes", "quantity": "1/2 tin"},
+                    {"ingredient": "onion", "quantity": "1 large (200g) or two small"},
+                    {"ingredient": "garlic", "quantity": "2 large clove"},
+                    {"ingredient": "chopped ginger", "quantity": "2 tsp"},
+                    {"ingredient": "dried fenugreek leaf (optional) – also called kasuri methi", "quantity": "2 tsps"},
+                    {"ingredient": "turmeric powder", "quantity": "1/2 tsp"},
+                    {"ingredient": "ground coriander powder", "quantity": "1 tsp"},
+                    {"ingredient": "chilli powder or a chilli (optional – add as much as you like)", "quantity": "1/2 tsp"},
+                    {"ingredient": "water", "quantity": "1/2 cup (125ml)"},
+                    {"ingredient": "lemon juice (can be from a bottle)", "quantity": "1 tsp"},
+                    {"ingredient": "turmeric", "quantity": "1/2 tsp"},
+                    {"ingredient": "chopped coriander leaf (can be frozen)", "quantity": "2 tbsps"}
+                   ]
+    },
+    {
+    "recipeName": "Fried Rice",
+    "ingredients": [
+                    {"ingredient": "spam or ham (we used Sainsburys Basics chopped ham and pork), or you can use any leftover cooked meat like chicken",
+                                   "quantity": "100g"},
+                    {"ingredient": "small frozen prawns (can substitute sliced crabsticks)", "quantity": "50g"},
+                    {"ingredient": "eggs", "quantity": 2},
+                    {"ingredient": "cold cooked rice (made from 150g uncooked rice) – about 2 portions", "quantity": "350-400g"},
+                    {"ingredient": "garlic", "quantity": "3 large cloves"},
+                    {"ingredient": "onion", "quantity": "1 small - med (100-150g)"},
+                    {"ingredient": "soya sauce", "quantity": "2 tsps"},
+                    {"ingredient": "mixed frozen or canned peas/sweetcorn/carrot/chopped beans", "quantity": "150g"},
+                    {"ingredient": "White pepper (if you have it)"},
+                    {"ingredient": "oil", "quantity": "1 tbsp"}
+                   ]
+    },
+    {
+    "recipeName": "Ginger Fish and Stir Fried Beans",
+    "ingredients": [
+                    {"ingredient": "For the fish:"},
+                    {"ingredient": "minced garlic", "quantity": "1 1/2 tsp (3 large cloves)"},
+                    {"ingredient": "finely shredded ginger", "quantity": "4 tsp (12g)"},
+                    {"ingredient": "rice", "quantity": "150g (125ml)"},
+                    {"ingredient": "white fish fillets", "quantity": "300g"},
+                    {"ingredient": "spring onion", "quantity": "2 stalks"},
+                    {"ingredient": "soya sauce", "quantity": "2-3 tsps (to taste)"},
+                    {"ingredient": "fish sauce", "quantity": "1 1/2 tsp"},
+                    {"ingredient": "toasted sesame oil", "quantity": "1 tsp"},
+                    {"ingredient": "  "},
+                    {"ingredient": "For the beans:"},
+                    {"ingredient": "frozen green beans", "quantity": "250g"},
+                    {"ingredient": "minced garlic", "quantity": "1 1/2 tsp (3 large cloves)"},
+                    {"ingredient": "soya sauce", "quantity": "1 1/2 tsp"},
+                    {"ingredient": "toasted sesame oil", "quantity": "1/2 tsp"},
+                    {"ingredient": "veg oil (NOT olive)", "quantity": "1 tbsp"}
+                   ]
+    },
+    {
+    "recipeName": "Guvech (Turkish Veg Stew)",
+    "ingredients": [
+                    {"ingredient": "oil", "quantity": "1 tbsp"},
+                    {"ingredient": "onion", "quantity": 1},
+                    {"ingredient": "potato", "quantity": "1 large or 2 medium – 200-250g in total"},
+                    {"ingredient": "red pepper", "quantity": "1/2 large about 80g"},
+                    {"ingredient": "garlic", "quantity": "2 large cloves"},
+                    {"ingredient": "salt", "quantity": "1/4 tsp"},
+                    {"ingredient": "veg stock", "quantity": "1/2 cube"},
+                    {"ingredient": "paprika", "quantity": "2 tsp"},
+                    {"ingredient": "tomato puree", "quantity": "1 tsp"},
+                    {"ingredient": "chopped tomatoes", "quantity": "1/2 can (200g) tinned (or substitute ripe fresh ones in the summer)"},
+                    {"ingredient": "water", "quantity": "1 cup/250ml"},
+                    {"ingredient": "mixed veg", "quantity": "3-400g"},
+                    {"ingredient": "carrot", "quantity": "1 small (60g)"},
+                    {"ingredient": "green beans", "quantity": "100g"},
+                    {"ingredient": "courgette", "quantity": "100g"},
+                    {"ingredient": "aubergines", "quantity": "100g"},
+                    {"ingredient": "chopped parsley"},
+                    {"ingredient": "coriander"},
+                    {"ingredient": "oregano"},
+                    {"ingredient": "basil"}
+                   ]
+    },
+    {
+    "recipeName": "Indonesian Corn Fritters",
+    "ingredients": [
+                    {"ingredient": "sweetcorn", "quantity": "200g"},
+                    {"ingredient": "spring onion", "quantity": "2 finely chopped"},
+                    {"ingredient": "egg", "quantity": "1 medium or small, beaten"},
+                    {"ingredient": "plain flour", "quantity": "4 tbsps/60ml"},
+                    {"ingredient": "onion", "quantity": "1/2 small, grated, pureed or finely chopped"},
+                    {"ingredient": "vegetable oil", "quantity": "2 tbsps (for frying)"},
+                    {"ingredient": "ground coriander", "quantity": "1/2 teaspoon"},
+                    {"ingredient": "black pepper", "quantity": "1/2 teaspoon (or to taste – this makes it spicy)"},
+                    {"ingredient": "garlic", "quantity": "2 med cloves, minced"},
+                    {"ingredient": "salt", "quantity": "1/2 teaspoon"},
+                    {"ingredient": "sugar", "quantity": "1/2 teaspoon"},
+                    {"ingredient": "pita breads", "quantity": "2 large or 4 smaller ones (you can use any flat breads)"},
+                    {"ingredient": " "},
+                    {"ingredient": "Mint yogurt sauce:"},
+                    {"ingredient": "natural yogurt", "quantity": "80ml (1/3 cup)"},
+                    {"ingredient": "sugar", "quantity": "1/2 tsp"},
+                    {"ingredient": "dried mint", "quantity": "1/2 tsp"},
+                    {"ingredient": "garam masala or ground cumin", "quantity": "1/4 tsp"},
+                    {"ingredient": "salt", "quantity": "Pinch"}
+                   ]
+    },
+    {
+    "recipeName": "Kluski",
+    "ingredients": [
+                    {"ingredient": "onion", "quantity": "1 med (150g)"},
+                    {"ingredient": "ricotta", "quantity": "125g (half a tub)"},
+                    {"ingredient": "garlic", "quantity": "4 cloves"},
+                    {"ingredient": "spinach", "quantity": "180g"},
+                    {"ingredient": "oil", "quantity": "1 tbsp"},
+                    {"ingredient": "Either 100g bacon or 2-3 tbsp parmesan-style grated cheese"},
+                    {"ingredient": "pasta"}
+                   ]
+    },
+    {
+    "recipeName": "Lentil and Mushroom Pilaff",
+    "ingredients": [
+                    {"ingredient": "150g long grain rice (2/3 of a cup)"},
+                    {"ingredient": "250ml (1 cup) water to soak the rice in"},
+                    {"ingredient": "1 medium onion, thinly sliced"},
+                    {"ingredient": "250g mushrooms"},
+                    {"ingredient": "125g (2/3 of a cup) lentils, brown or green, (not red)"},
+                    {"ingredient": "1 veggie stock cube"},
+                    {"ingredient": "1 large or 2 medium cloves garlic"},
+                    {"ingredient": "1 tsp finely grated or chopped ginger"},
+                    {"ingredient": "1 tbsp lemon juice (this can be from a bottle)"},
+                    {"ingredient": "1/2 tsp dried oregano"}
+                   ]
+    },
+    {
+    "recipeName": "Maafe Tigidigi",
+    "ingredients": [
+                    {"ingredient": "1 veg stock cube"},
+                    {"ingredient": "3 tbsps (35g) of smooth peanut butter or peanut paste"},
+                    {"ingredient": "2 tsps tomato puree"},
+                    {"ingredient": "350ml hot water (1 ½ cups)"},
+                    {"ingredient": "50g okra"},
+                    {"ingredient": "1 bay leaf (if you have it)"},
+                    {"ingredient": "½ tsp ground cumin"},
+                    {"ingredient": "¼ tsp ground fennel seed"},
+                    {"ingredient": "¼ tsp chilli powder (optional, or to taste)"},
+                    {"ingredient": "¼ tsp black pepper"},
+                    {"ingredient": "Veg: (suggested quantities or you can use a total of 400g of any hard veg you like, suggestions would be pumpkin, cauliflower, courgette, broccoli)"},
+                    {"ingredient": "½ red pepper"},
+                    {"ingredient": "1 stick celery (averaged size) (50g)"},
+                    {"ingredient": "150g sweet potato"},
+                    {"ingredient": "100g carrot (small-med sized)"}
+                   ]
+    },
+    {
+    "recipeName": "Quorn and Mushrooms in Oyster Sauce",
+    "ingredients": [
+                    {"ingredient": "100g Quorn mince"},
+                    {"ingredient": "1 med onion (150g)"},
+                    {"ingredient": "1 stick celery (60g)"},
+                    {"ingredient": "3 large cloves garlic"},
+                    {"ingredient": "2 tsps minced ginger"},
+                    {"ingredient": "200g mushrooms"},
+                    {"ingredient": "½ veg stock cube"},
+                    {"ingredient": "2 tbsps Veg Stir Fry sauce (30ml)"},
+                    {"ingredient": "150ml water"},
+                    {"ingredient": "2 tsps cornflour"},
+                    {"ingredient": "1 ½ tsp toasted sesame oil"},
+                    {"ingredient": "1/8 tsp white pepper"},
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": "130g rice"}
+                   ]
+    },
+    {
+    "recipeName": "Ragu Italian Pasta Sauce",
+    "ingredients": [
+                    {"ingredient": "100g mince (we prefer mixed pork+beef but you can use substitute beef, quorn or soya mince)"},
+                    {"ingredient": "¼ tsp dried mixed herbs, or ½ tsp oregano or basil, whichever you prefer"},
+                    {"ingredient": "½ tin tomatoes"},
+                    {"ingredient": "1/2 small onion"},
+                    {"ingredient": "50 g celery (1 small stick or half a large one)"},
+                    {"ingredient": "50g carrot (about medium sized)"},
+                    {"ingredient": "½ tsp ground fennel (optional)"},
+                    {"ingredient": "250g penne or other pasta"},
+                    {"ingredient": "2 large cloves garlic"},
+                    {"ingredient": "½ veg or any stock cube"},
+                    {"ingredient": "¼ tsp ground black pepper"},
+                    {"ingredient": "Optional twists: 2 rashers of bacon; ½ glass wine; parmesan; 2 tsps parsley"}
+                   ]
+    },
+    {
+    "recipeName": "Ribollita",
+    "ingredients": [
+                    {"ingredient": "3 tbsps (45ml) extra virgin olive oil"},
+                    {"ingredient": "1 small or half a large onion"},
+                    {"ingredient": "25 g stale bread (that’s about ½- 1 slice) or small pasta shapes"},
+                    {"ingredient": "½ can white beans (cannellini or similar)"},
+                    {"ingredient": "½ can chopped tomatoes"},
+                    {"ingredient": "1 vegetable stock cube"},
+                    {"ingredient": "2 large cloves garlic"},
+                    {"ingredient": "1 ½ sticks celery (approx 80g)"},
+                    {"ingredient": "60g kale, spring greens or cavolo nero"},
+                    {"ingredient": "1 medium carrot (approx 80g)"},
+                    {"ingredient": "Optional extras (can be swapped for the carrot/celery if desired):"},
+                    {"ingredient": "red or green pepper, stems of broccoli or cabbage, courgette"}
+                   ]
+    },
+    {
+    "recipeName": "Salmon Fishcakes and Coleslaw",
+    "ingredients": [
+                    {"ingredient": " "},
+                    {"ingredient": "Salmon fishcakes:"},
+                    {"ingredient": " "},
+                    {"ingredient": "3 potatoes, about 500g"},
+                    {"ingredient": "1 tin of salmon or tuna (net weight around 200g), in brine not oil"},
+                    {"ingredient": "2 small or 1 large spring onions"},
+                    {"ingredient": "about 3 tbsps chopped parsley (can be frozen)"},
+                    {"ingredient": "1/8 tsp (large pinch) white pepper"},
+                    {"ingredient": "salt, black pepper"},
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": " "},
+                    {"ingredient": "Coleslaw:"},
+                    {"ingredient": " "},
+                    {"ingredient": "100g cabbage (any colour)"},
+                    {"ingredient": "1 small/med carrot (around 80-100g)"},
+                    {"ingredient": "2 tbsps chopped spring onions or 1 tbsp raw chopped or grated onion"},
+                    {"ingredient": "1 tsp vinegar"},
+                    {"ingredient": "½ tsp Dijon or French mustard"},
+                    {"ingredient": "1 tsp lemon juice (can be bottled)"},
+                    {"ingredient": "1 tsp sugar"},
+                    {"ingredient": "2 tsp veg oil"},
+                    {"ingredient": "Salt, pepper"}
+                   ]
+    },
+    {
+    "recipeName": "Sayur Lodeh",
+    "ingredients": [
+                    {"ingredient": "3 tbsps peanuts (30g) (optional)"},
+                    {"ingredient": "250g mixed veg (frozen will do) – cabbage/broccoli/cauliflower/beans/carrots/peppers are all typical, but anything you want"},
+                    {"ingredient": "2 small or 1 large tomato (or you can use 1/3 can)"},
+                    {"ingredient": "½ inch ginger (about 1 tsp)"},
+                    {"ingredient": "2 cloves garlic"},
+                    {"ingredient": "1/3 tin (150ml) coconut milk"},
+                    {"ingredient": "¼ tsp salt or to taste"},
+                    {"ingredient": "½ tsp turmeric powder"},
+                    {"ingredient": "½ tsp chilli powder/cayenne pepper or to taste"},
+                    {"ingredient": "½ large onion (100g)"},
+                    {"ingredient": "1 tbsp veg oil"}
+                   ]
+    },
+    {
+    "recipeName": "Sheek Kebab Pitas",
+    "ingredients": [
+                    {"ingredient": " "},
+                    {"ingredient": "Sheek Kebabs:"},
+                    {"ingredient": " "},
+                    {"ingredient": "200g minced beef or lamb"},
+                    {"ingredient": "60ml (1/4 cup) plain flour, or breadcrumbs from half a slice of bread"},
+                    {"ingredient": "1 green chili or ½ tsp chilli powder (optional)"},
+                    {"ingredient": "3 large cloves garlic (chopped fine)"},
+                    {"ingredient": "1/2 beef stock cube (crushed)"},
+                    {"ingredient": "10g (2 tbsp) coriander leaf, chopped fine"},
+                    {"ingredient": "1 small egg"},
+                    {"ingredient": "2 tsp tomato puree"},
+                    {"ingredient": "1/2 tsp sugar"},
+                    {"ingredient": " "},
+                    {"ingredient": "Spices:"},
+                    {"ingredient": " "},
+                    {"ingredient": "1/2 tsp dried ginger powder or 2 tsp finely chopped fresh ginger (we used dried)"},
+                    {"ingredient": "1.5 tsp ground cumin"},
+                    {"ingredient": "1 tsp ground coriander"},
+                    {"ingredient": "1/2 tsp black pepper"},
+                    {"ingredient": " "},
+                    {"ingredient": "Mint yogurt sauce"},
+                    {"ingredient": " "},
+                    {"ingredient": "80ml natural yogurt (1/3 cup)"},
+                    {"ingredient": "1/2 tsp sugar"},
+                    {"ingredient": "1/2 tsp dried mint"},
+                    {"ingredient": "1/4 tsp garam masala or ground cumin"},
+                    {"ingredient": "Pinch salt"}
+                   ]
+    },
+    {
+    "recipeName": "Singapore Noodles (Veggie)",
+    "ingredients": [
+                    {"ingredient": "2 tablespoons veg oil"},
+                    {"ingredient": "140g rice vermicelli noodles"},
+                    {"ingredient": "2 egg"},
+                    {"ingredient": "2 large cloves garlic, minced"},
+                    {"ingredient": "1 ½ teaspoons minced ginger"},
+                    {"ingredient": "1 medium carrot (approx 100g)"},
+                    {"ingredient": "100g Chinese cabbage or beansprouts"},
+                    {"ingredient": "½ red pepper (about 80g)"},
+                    {"ingredient": "1 spring onion"},
+                    {"ingredient": "4 teaspoons veggie oyster sauce (20ml)"},
+                    {"ingredient": "1 tablespoon light soy sauce"},
+                    {"ingredient": "1 ½ teaspoons vinegar"},
+                    {"ingredient": "¼ teaspoon cumin powder"},
+                    {"ingredient": "¾ teaspoon turmeric powder"},
+                    {"ingredient": "¼ teaspoon chilli (optional)"},
+                    {"ingredient": " "},
+                    {"ingredient": "Meat replacement:"},
+                    {"ingredient": " "},
+                    {"ingredient": "50g soya chunks"},
+                    {"ingredient": "2 finely minced cloves garlic or ½ tsp garlic powder"},
+                    {"ingredient": "1 tbsp (dark, preferably) soy sauce"},
+                    {"ingredient": "130ml boiling water"}
+                   ]
+    },
+    {
+    "recipeName": "Singapore Noodles",
+    "ingredients": [
+                    {"ingredient": "1½ tablespoons veg oil"},
+                    {"ingredient": "140g rice vermicelli noodles"},
+                    {"ingredient": "1 egg"},
+                    {"ingredient": "2 large cloves garlic, minced"},
+                    {"ingredient": "1 ½ teaspoons minced ginger"},
+                    {"ingredient": "1 medium carrot (approx 100g)"},
+                    {"ingredient": "100g Chinese cabbage or beansprouts"},
+                    {"ingredient": "½ red pepper (about 80g)"},
+                    {"ingredient": "1 spring onion"},
+                    {"ingredient": "6 crabsticks (100g)"},
+                    {"ingredient": "50g shredded ham, chicken roll or chicken"},
+                    {"ingredient": "4 teaspoons veggie oyster sauce (20ml)"},
+                    {"ingredient": "1 tablespoon light soy sauce"},
+                    {"ingredient": "1 ½ teaspoons vinegar"},
+                    {"ingredient": "¼ teaspoon cumin powder"},
+                    {"ingredient": "¾ teaspoon turmeric powder"},
+                    {"ingredient": "¼ teaspoon chilli (optional)"}
+                   ]
+    },
+    {
+    "recipeName": "Soya Sauce Chicken",
+    "ingredients": [
+                    {"ingredient": "500g chicken legs or 150g quorn “chicken pieces”"},
+                    {"ingredient": "1 Tbs vegetable oil"},
+                    {"ingredient": "1 med onion"},
+                    {"ingredient": "1 large/2 small cloves garlic"},
+                    {"ingredient": "2 tsp minced ginger"},
+                    {"ingredient": "200g carrot"},
+                    {"ingredient": "200g white or green cabbage"},
+                    {"ingredient": "2 tsp sugar (optional)"},
+                    {"ingredient": "2 Tbs light soy sauce"},
+                    {"ingredient": "2 Tbs dark soy sauce"},
+                    {"ingredient": "( - or you can use 4 Tbs “Datu Puti” brand which is sort of half and half)"}
+                   ]
+    },
+    {
+    "recipeName": "Spicy Baked Chicken and Veg",
+    "ingredients": [
+                    {"ingredient": "500g chicken (enough for 2 people; 4-6 drumsticks is best)"},
+                    {"ingredient": "250g sweet potato"},
+                    {"ingredient": "300g potatoes"},
+                    {"ingredient": "150g carrots"},
+                    {"ingredient": "(you can try other hard veg like butternut squash & parsnips too; you want around 700g veg in total)"},
+                    {"ingredient": "1 ½ tsps dried oregano"},
+                    {"ingredient": "1/2 tsp ground fennel"},
+                    {"ingredient": "1 ½ tsps ground coriander"},
+                    {"ingredient": "1/2 tsp garlic powder/2 Cloves garlic, crushed"},
+                    {"ingredient": "1/4 tsp chili powder/cayenne pepper (optional)"},
+                    {"ingredient": "1/2 tsp salt"},
+                    {"ingredient": "1-2 tbsp veg oil"},
+                    {"ingredient": "1/2 tsp salt"}
+                   ]
+    },
+    {
+    "recipeName": "Spicy Baked Veg",
+    "ingredients": [
+                    {"ingredient": "About 1.2 kgs mixed veg in total for 2 people. Choose hard veg, like:"},
+                    {"ingredient": "Potatoes"},
+                    {"ingredient": "Sweet potatoes"},
+                    {"ingredient": "Pumpkin"},
+                    {"ingredient": "Parsnips"},
+                    {"ingredient": "Squash"},
+                    {"ingredient": "carrots"},
+                    {"ingredient": " "},
+                    {"ingredient": "Spices:"},
+                    {"ingredient": "1 ½ tsps dried oregano"},
+                    {"ingredient": "1/2 tsp ground fennel"},
+                    {"ingredient": "1 ½ tsps ground coriander"},
+                    {"ingredient": "1/2 tsp garlic powder/2 Cloves garlic, crushed"},
+                    {"ingredient": "1/4 tsp chili powder/cayenne pepper (optional)"},
+                    {"ingredient": "3/4 tsp salt"},
+                    {"ingredient": "2 tbsp veg oil"}
+                   ]
+    },
+    {
+    "recipeName": "Swedish Meatballs",
+    "ingredients": [
+                    {"ingredient": "For the meatballs:"},
+                    {"ingredient": "275g beef/pork mince (or you can mix minced beef and minced turkey, or use beef alone)"},
+                    {"ingredient": "50g onion (about ½ small onion)"},
+                    {"ingredient": "breadcrumbs from 1/2 slice of bread (or 25g dried)"},
+                    {"ingredient": "1/8 tsp (large pinch) pepper"},
+                    {"ingredient": "1/8 tsp salt"},
+                    {"ingredient": "1 large clove garlic"},
+                    {"ingredient": " "},
+                    {"ingredient": "For the sauce:"},
+                    {"ingredient": "110g mushrooms, preferably closed cup/button"},
+                    {"ingredient": "2 tbsp sour cream/double cream/creme fraiche"},
+                    {"ingredient": "1/2 beef (or any) stock cube"},
+                    {"ingredient": "1.5 tbsp flour"},
+                    {"ingredient": "150ml water (about 2/3 of a mug)"},
+                    {"ingredient": "4-500g potatoes, any type"}
+                   ]
+    },
+    {
+    "recipeName": "Tomato Pasta Sauce",
+    "ingredients": [
+                    {"ingredient": "100g carrot"},
+                    {"ingredient": "1 tin tomatoes (value/basics ranges work fine)"},
+                    {"ingredient": "3 large cloves garlic"},
+                    {"ingredient": "¼ tsp salt"},
+                    {"ingredient": "Large pinch black pepper"},
+                    {"ingredient": "1 tsp dried basil (or you can use fresh if you have it)"},
+                    {"ingredient": "2 tablespoons extra virgin olive oil"},
+                    {"ingredient": "250g pasta"},
+                    {"ingredient": "Optional cheese:"},
+                    {"ingredient": "125g (or less) mozzarella"},
+                    {"ingredient": "20g Italian-style hard cheese (parmesan or substitute)"}
+                   ]
+    },
+    {
+    "recipeName": "Vegetable Noodles",
+    "ingredients": [
+                    {"ingredient": "130g/2 cakes dried noodles, any kind will do, but we used wheat with no oil"},
+                    {"ingredient": "1 large spring onion with leaves"},
+                    {"ingredient": "150g cabbage (white/green/savoy/spring)"},
+                    {"ingredient": "100g or 1 medium carrot"},
+                    {"ingredient": "Either ½ onion or 100g green beans or ½ pepper, any colour"},
+                    {"ingredient": "2 large cloves garlic"},
+                    {"ingredient": "1 tbsp fish sauce/vegetarian stir fry sauce/oyster sauce"},
+                    {"ingredient": "2 tsp soya sauce (dark soya sauce is best for colour and flavour)"},
+                    {"ingredient": "1 tsp toasted sesame oil"},
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": "Optional: 1-2 eggs, handful cooked chicken/prawns/ham/beef"},
+                    {"ingredient": "Other veg you can use: bean sprouts, Chinese cabbage, mushrooms, bamboo shoots"}
+                   ]
+    },
+    {
+    "recipeName": "Vegetable Dhansak",
+    "ingredients": [
+                    {"ingredient": "1/2 tsp garam masala"},
+                    {"ingredient": "1/4 tsp pepper"},
+                    {"ingredient": "1/2 tsp ground coriander"},
+                    {"ingredient": "1/2 tsp ground cumin"},
+                    {"ingredient": "1/2 tsp chilli powder or to taste"},
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": "1 large onion"},
+                    {"ingredient": "1 small potato"},
+                    {"ingredient": "1 med-large tomato or half a tin of chopped tomatoes"},
+                    {"ingredient": "1 large clove garlic"},
+                    {"ingredient": "1 tsp minced ginger"},
+                    {"ingredient": "1 vegetable stock cube"},
+                    {"ingredient": "1 handful chopped coriander"},
+                    {"ingredient": "200g of mixed veg – can be frozen mixed veg, or a random selection of whatever’s in the bottom of your fridge, e.g. aubergines, peppers, courgetts, mushrooms, spring onions, broccoli stems, celery, pumpkin"},
+                    {"ingredient": "4 oz/100g mixed dried beans/lentils"}
+                   ]
+    },
+    {
+    "recipeName": "Vegetable Fajitas",
+    "ingredients": [
+                    {"ingredient": "1 pepper"},
+                    {"ingredient": "1 medium onion (150g)"},
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": "2-4 large pitta breads or tortilla wraps"},
+                    {"ingredient": "¼ tsp salt (optional)"},
+                    {"ingredient": "½ tsp sugar (optional)"},
+                    {"ingredient": "½ veggie stock cube, crushed"},
+                    {"ingredient": "½ tbsp cornstarch/cornflour (preferably) or normal flour"},
+                    {"ingredient": "½ tsp paprika"},
+                    {"ingredient": "¼ tsp ground cumin"},
+                    {"ingredient": "¼ tsp chilli (optional)"},
+                    {"ingredient": "200g mushrooms"},
+                    {"ingredient": "120g canned beans (half a tin) – we are using red kidney beans"},
+                    {"ingredient": "1 tsp tomato puree"},
+                    {"ingredient": "1 clove garlic, crushed or finely chopped"},
+                    {"ingredient": ""},
+                    {"ingredient": "Tomato salsa:"},
+                    {"ingredient": "1 large tomato or 2 medium, as ripe as you can get them"},
+                    {"ingredient": "1 tbsp lemon or lime juice (can be from a bottle)"},
+                    {"ingredient": "1 tbsp chopped coriander leaf"},
+                    {"ingredient": "1 small clove garlic, crushed"},
+                    {"ingredient": "1-2 tsp finely chopped onion or spring onion"},
+                    {"ingredient": "Pinch salt"}
+                   ]
+    },
+    {
+    "recipeName": "Veggie Chili",
+    "ingredients": [
+                    {"ingredient": "1 medium onion"},
+                    {"ingredient": "1 Tbs veg oil"},
+                    {"ingredient": "1 small stick celery (50g)"},
+                    {"ingredient": "2 large cloves garlic"},
+                    {"ingredient": "1 tin chopped tomatoes"},
+                    {"ingredient": "3 Tbs brown or green lentils"},
+                    {"ingredient": "1 Tbs tomato puree"},
+                    {"ingredient": "1 tsp cumin"},
+                    {"ingredient": "1½ tsp paprika"},
+                    {"ingredient": "½ tsp chilli – or to taste"},
+                    {"ingredient": "1 tin beans - we used mixed beans or any kind"},
+                    {"ingredient": "110g frozen sweetcorn or half a tin"},
+                    {"ingredient": "½ stock cube, any kind"},
+                    {"ingredient": "60g grated cheddar"},
+                    {"ingredient": "4 Tbs sour cream or crème fraiche"}
+                   ]
+    },
+    {
+    "recipeName": "Vichy Carrots",
+    "ingredients": [
+                    {"ingredient": "3 medium carrots (300g)"},
+                    {"ingredient": "1 tbsp (15g) butter – just a knob will do"},
+                    {"ingredient": "1 tsp sugar"},
+                    {"ingredient": "Large pinch salt"},
+                    {"ingredient": "Grind fresh pepper"}
+                   ]
+    },
+    {
+    "recipeName": "Xinjiang Cumin Chicken",
+    "ingredients": [
+                    {"ingredient": "1 tbsp veg oil"},
+                    {"ingredient": "300g chicken breast, frozen is fine"},
+                    {"ingredient": "2 large garlic cloves"},
+                    {"ingredient": "3 teaspoons ground cumin"},
+                    {"ingredient": "1/2 teaspoon dried chilli flakes or cayenne pepper (optional; this is quite spicy so put less if you want)"},
+                    {"ingredient": "1 tsp cornflour or normal flour"},
+                    {"ingredient": "1 1/2 tsp toasted sesame oil"},
+                    {"ingredient": "2 teaspoons light soy sauce"},
+                    {"ingredient": "1 small/med onion (120g)"},
+                    {"ingredient": "1 small or half a large green or red pepper"},
+                    {"ingredient": "2 sticks celery (100g)"}
+                   ]
+    }
+]
